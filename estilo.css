@@ -1,0 +1,16 @@
+.card {
+box-shadow: 0 8px 10px rgba(0,0,0,0.2);
+transition: 0.3s;
+}
+
+.card:hover{
+    box-shadow: 0 16px 24px rgba(165, 10, 31, 0.726);;
+}
+
+body {
+
+    background-image: url("/pueblo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    }
